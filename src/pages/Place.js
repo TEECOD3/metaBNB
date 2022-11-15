@@ -25,7 +25,7 @@ const Place = () => {
         </ul>
       </div>
 
-      <div className="wrapper">
+      <div className="container">
           <div className="card">{cards}</div>
       </div>
 
