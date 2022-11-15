@@ -1,0 +1,13 @@
+//ABSTRACTS
+@import "./abstracts/mixins";
+@import "./abstracts/variables";
+
+//COMPONENTS
+@import "./components/Card.module.scss";
+@import "./components/Footer.module.scss";
+@import "./components/Header.module.scss";
+@import "./components/Hero.module.scss";
+@import "./components/Grids.module.scss";
+@import "./components/HeroB.module.scss";
+@import "./components/Modal.module.scss";
+@import "./components/SocialProof.module.scss";
