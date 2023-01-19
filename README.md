@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##view website project using this neflify live link:
+## view website project using this neflify live link:
 https://fabulous-heliotrope-8e38d5.netlify.app/
 
 ## Available Scripts
